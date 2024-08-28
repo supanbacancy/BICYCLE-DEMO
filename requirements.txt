@@ -1,0 +1,10 @@
+Flask
+rtree
+pyarrow
+dask[dataframe]
+pandas
+mysql-connector-python
+numpy
+sqlalchemy
+mysqlclient
+folium
